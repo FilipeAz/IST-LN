@@ -1,0 +1,20 @@
+Frase n∫1: Depois ele cobre a minha cama
+Probabilidade de cobrar = 8.648154744713181e-07
+Probabilidade de cobrir = 3.0579163020892316e-06
+O lema 'cobrir' tem maior probabilidade
+Frase n∫2: Eu nunca vi ninguem que cobre tanto
+Probabilidade de cobrar = 7.842050820680759e-07
+Probabilidade de cobrir = 0.00045137762861656287
+O lema 'cobrir' tem maior probabilidade
+Frase n∫3: A manta cobre o sofa
+Probabilidade de cobrar = 8.621174660316428e-07
+Probabilidade de cobrir = 0.0002264302361686897
+O lema 'cobrir' tem maior probabilidade
+Frase n∫4: √â a SIC quem cobre o jogo de futebol desta noite
+Probabilidade de cobrar = 8.621174660316428e-07
+Probabilidade de cobrir = 8.220782390831171e-06
+O lema 'cobrir' tem maior probabilidade
+Frase n∫5: N√£o h√° quem lhe cobre 25 euros por isto
+Probabilidade de cobrar = 8.666932402783729e-07
+Probabilidade de cobrir = 1.2791196787556675e-05
+O lema 'cobrir' tem maior probabilidade

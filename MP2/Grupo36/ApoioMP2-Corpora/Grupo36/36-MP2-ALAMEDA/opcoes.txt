@@ -1,0 +1,9 @@
+Opções:
+ - Não calculámos a probabilidade de todos os bigramas possíveis no nosso corpus de teste pois para
+   calcular a probabilidade de a palavra pertencer a um lema ou outro apenas são precisos os bigramas que contêm
+   os possíveis lemas da palavra a analisar.
+ - Utilizámos K-smoothing (com k=1) como método de alisamento por este ser o mais simples (com métodos de alisamento
+   mais sofisitcados os resultados teriam sido melhores).
+ - Óptamos pela linguagem de programação python para desenvolver os nossos programas por ser uma linguagem com a qual
+   estamos à vontade e ser fácil de utilizar para este tipo de trabalhos.
+ - Utilizámos a bash do linux para transformar os ficheiros .out nos ficheiros.final   

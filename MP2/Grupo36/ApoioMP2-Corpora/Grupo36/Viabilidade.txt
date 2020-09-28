@@ -1,0 +1,15 @@
+	É quase impossível mas importante desenvolver sistemas que selecionem semrpe o lema correto. Devido ao contexto, escolher o lema correto 
+de expressões como "fui" (que pode ter como lema "ser" ou "ir") torna-se uma tarefa muito difícil para os computadores. 
+Para os computadores saberem o contexto de certas expressões num texto é preciso guardar quantidades enormes de informação 
+tanto do que está para trás como do que está para a frente no texto. 
+	Hoje em dia usam-se estratégias probabilísticas para calcular o melhor lema para uma palavra na forma de n-gramas.
+Para pôr em prática estas estratégias "treina-se" o sistema com um corpus de treino que contêm milhões de frases para que ele
+possa verificar a probabilidade de uma palavra pertencer a um certo lema num determinado contexto. No entanto, para que o 
+sistema tenha uma percentagem mais alta de escolha certa do lema é preciso que ele "treine" com corpus cada vez maiores para
+poder observer o maior número possível de combinações de palavras em diferentes contextos. Ora é precisamente por isto que se
+torna impossível ter um sistema que escolha o lema correto 100% das vezes.
+	No caso do nosso projeto, o sistema foi testado com um corpus de milhares de palavras, o que é bastante pequeno pois existem sequências que
+nunca são observadas no corpus de treino, fazendo assim com que os resultados não sejam muito bons. Também há o problema de no caso do corpus
+da palavra "cobre", esta pertencer muitas mais vezes ao lema "cobrir" do que ao lema "cobrar", fazendo com que os resultados fiquem enviasados.
+Podiamos também ter usado algoritmos de alisamento mais sofisticados do que k-smoothing, o que geraria com certeza melhores resultados.
+	Isto fez-nos entender que esta é uma área de trabalho que está em desenvolvimento e que é importante para o processamento da língua natural.

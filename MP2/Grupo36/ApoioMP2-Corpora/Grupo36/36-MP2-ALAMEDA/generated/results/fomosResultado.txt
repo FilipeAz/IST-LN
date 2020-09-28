@@ -1,0 +1,20 @@
+Frase nº1: Ontem à tarde fomos ao parque.
+Probabilidade de ir = 1.5011972047708046e-06
+Probabilidade de ser = 8.013725909738199e-08
+O lema 'ir' tem maior probabilidade
+Frase nº2: E amanhã não seremos o que fomos nem o que somos.
+Probabilidade de ir = 2.1396238865839973e-06
+Probabilidade de ser = 3.544693480429605e-06
+O lema 'ser' tem maior probabilidade
+Frase nº3: Vingarmo-nos de um mal de que fomos vítimas, é privarmo-nos do conforto de gritarmos contra a injustiça.
+Probabilidade de ir = 7.439004189448652e-05
+Probabilidade de ser = 0.00024897275684767294
+O lema 'ser' tem maior probabilidade
+Frase nº4: E fomos embora.
+Probabilidade de ir = 9.662391085784832e-05
+Probabilidade de ser = 0.00036409494437438357
+O lema 'ser' tem maior probabilidade
+Frase nº5: A saudade diminuiu ou fomos nós que envelhecemos?
+Probabilidade de ir = 1.6582139212033326e-07
+Probabilidade de ser = 1.6730121627984236e-06
+O lema 'ser' tem maior probabilidade
